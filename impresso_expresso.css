@@ -1,0 +1,42 @@
+#caf{
+    float: left;
+    width: 499px;
+    height: 477px;
+    opacity: 0.6;
+    border: thin grey;
+}
+.hea{
+   position: relative;
+   margin:-23px auto;
+}
+.navbar{
+background-color:white;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.navbar li a{
+    text-decoration:none;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+}
+.navbar li{
+    font-size: 23px;
+    list-style: none;
+    float:right;
+    margin:10px
+    
+}
+.navbar ul{
+    overflow:auto;
+}
+/* header::after{
+   content: "Impresso Expresso";
+   background-image: url('https://source.unsplash.com/user/erondu/1600x900') no-repeat center center/cover;
+   position: absolute;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   z-index: 5;
+} */
